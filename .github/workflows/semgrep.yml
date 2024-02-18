@@ -1,8 +1,8 @@
 ---
 name: Semgrep Differential Scan
 on:
-  push:
-    branches: []
+  # push:
+  #   branches: []
   pull_request:
     branches: ['master']
 
