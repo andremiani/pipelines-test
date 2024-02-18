@@ -1,0 +1,16 @@
+{
+  "vendor": "lojabestoff",
+  "name": "demo",
+  "version": "0.0.1",
+  "title": "Demo App",
+  "description": "Demo App",
+  "builders": {
+    "react": "3.x",
+    "messages": "1.x",
+    "docs": "0.x"
+  },
+  "dependencies": {},
+  "registries": ["smartcheckout"],
+  "policies": [],
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}
